@@ -9,5 +9,5 @@ import './modules/form.js';
 // Modal
 $('.modal__close').on('click', function () {
     $('.overlay, #thanks').fadeOut('fast');
-  });
+});
 
